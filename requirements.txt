@@ -1,0 +1,17 @@
+scikit-learn
+pandas
+pickle5
+yfinance
+mplfinance
+pandas_datareader
+statsmodels
+scipy
+arch
+pmdarima
+tslearn
+matplotlib
+seaborn
+datetime
+tqdm
+ipykernel
+dtw-python
